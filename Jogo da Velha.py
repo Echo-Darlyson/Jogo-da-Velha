@@ -5,6 +5,7 @@ import random
 #Janela
 janela2 = tk.Tk()
 janela = tk.Tk()
+janela.title("Jogo da Velha")
 
 def Clique(id):
 	
